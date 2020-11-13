@@ -1,0 +1,17 @@
+---
+title: "Challenge 1"
+author: "Jean Buyssens (aka Gaspard des Montagnes)"
+date: "13/11/2020"
+institution : SciencesPo Bordeaux
+output: html_document
+---
+
+# Introduction
+
+## Challenge 1
+
+### >"Puisque ce ne sont ni ceux qui savent, ni ceux des ignorants qui savent qu’ils ne savent pas, que reste-t-il d’autre sinon ceux qui croient savoir ce qu’ils ne savent pas ?"
+
+## *Socrate* : 117E Alcibiade
+
+
